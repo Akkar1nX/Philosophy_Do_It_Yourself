@@ -1,2 +1,2 @@
-# Philosophy-Self-Learning
+# Philosophy_Do_It_Yourself
 building
